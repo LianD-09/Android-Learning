@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Navigation_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_camera">Camera</string>
+    <string name="navigation_header">Navigation header</string>
+    <string name="nav_header_title">Navigaion Drawer</string>
+    <string name="nav_header_subtitle">Do Anh Linh - 20194314</string>
+    <string name="text_fragment_2">GALLERY CHOSEN</string>
+    <string name="text_fragment_1">CAMERA CHOSEN</string>
 </resources>

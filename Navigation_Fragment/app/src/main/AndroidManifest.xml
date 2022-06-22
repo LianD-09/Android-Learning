@@ -12,10 +12,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Navigation_Fragment"
-        tools:targetApi="31">
+        tools:targetApi="s">
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.Navigation_Fragment.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
